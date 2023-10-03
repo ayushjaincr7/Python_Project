@@ -8,3 +8,6 @@ The code is a Python script that renames files in a specified directory by repla
 
 # 3. weather informations
 The project is a Python script that retrieves and prints weather data for a user-inputted city using the OpenWeatherMap API, with the data displayed in a structured format using pprint.
+
+# 4. countdown timer
+The code takes user input for a countdown timer in seconds, then displays a real-time countdown and completes when the timer reaches zero, handling invalid inputs gracefully.
